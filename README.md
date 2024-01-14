@@ -14,6 +14,10 @@ Written in Python 3.9.9. Some packages used:
 - openai
 - streamlit
 
+To run the web app, execute this in the command line:
+
+`streamlit run main.py`
+
 ## Meta
 
 Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)
